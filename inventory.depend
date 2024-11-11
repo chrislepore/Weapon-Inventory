@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575529742 source:c:\users\chris\documents\engineering stuff\cc++\inventory\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<limits>
+
